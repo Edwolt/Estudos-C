@@ -19,8 +19,9 @@ nó filho
 nó filho
 - O algoritmo monta a Heap maxima e a partir disso passa a trocar a raiz da Heap com o elemento n-i
 - A Heap será montada no vetor de forma que o elemento i tenha como filho os nós 2i+1 e 2i+2
-- Complexidade: O(n log(n))\
+- Complexidade de tempo: O(n log(n))\
 Porém consome tempo construindo a heap
+- Complecidade de espaço adicional: O(1)
 # Merge Sort
 - Tambem conhecido como Ordenação por Intercalação
 # Ordenação por Contagem de menores
