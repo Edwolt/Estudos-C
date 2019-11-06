@@ -3,7 +3,7 @@
 - Ao final da iteração i os elementos de n-i a n estam na posição correta
 - Complexidade pior caso: O(n²), com o vetor já ordenado
 - Complexidade melhor caso: O(n), com o vetor já ordenado
-- Complexidade de espaço: O(n)
+- Complexidade de espaço adicional: O(1)
 # Quick Sort
 - Baseado em troca
 # Insetion Sort
@@ -17,7 +17,10 @@
 nó filho
   - Heap máximo (ou descendente): nó pai é menor ou igual
 nó filho
-
+- O algoritmo monta a Heap maxima e a partir disso passa a trocar a raiz da Heap com o elemento n-i
+- A Heap será montada no vetor de forma que o elemento i tenha como filho os nós 2i+1 e 2i+2
+- Complexidade: O(n log(n))\
+Porém consome tempo construindo a heap
 # Merge Sort
 - Tambem conhecido como Ordenação por Intercalação
 # Ordenação por Contagem de menores
