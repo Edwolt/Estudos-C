@@ -1,5 +1,11 @@
 # Buble Sort
+- Baseado em troca de valores vizinhos
+- Ao final da iteração i os elementos de n-i a n estam na posição correta
+- Complexidade pior caso: O(n²), com o vetor já ordenado
+- Complexidade melhor caso: O(n), com o vetor já ordenado
+- Complexidade de espaço: O(n)
 # Quick Sort
+- Baseado em troca
 # Insetion Sort
 - Tambem conhecido como Inserção Simples
 # Shell Sort
