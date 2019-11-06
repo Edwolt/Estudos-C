@@ -13,9 +13,9 @@
 # Heap Sort
 - É um algoritmo de Seleção
 - Heap é uma árvore binária completa com uma relação de ordem:
-- - Heap máximo (ou descendente): nó pai é maior ou igual
+  - Heap máximo (ou descendente): nó pai é maior ou igual
 nó filho
-- - Heap máximo (ou descendente): nó pai é menor ou igual
+  - Heap máximo (ou descendente): nó pai é menor ou igual
 nó filho
 
 # Merge Sort
