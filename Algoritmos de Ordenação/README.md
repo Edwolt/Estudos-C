@@ -11,6 +11,13 @@
 # Shell Sort
 # Seleção Direta
 # Heap Sort
+- É um algoritmo de Seleção
+- Heap é uma árvore binária completa com uma relação de ordem:
+- - Heap máximo (ou descendente): nó pai é maior ou igual
+nó filho
+- - Heap máximo (ou descendente): nó pai é menor ou igual
+nó filho
+
 # Merge Sort
 - Tambem conhecido como Ordenação por Intercalação
 # Ordenação por Contagem de menores
