@@ -29,3 +29,6 @@ Porém consome tempo construindo a heap
 - Tambem conhecido como Ordenação por Contagem de Tipos
 # Radix Sort
 - Tambem conhecido como Ordenação de Raizes
+# Top Sort (Grafos)
+# Bogo Sort
+# Solar Bitshift Sort
