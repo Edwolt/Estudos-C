@@ -1,3 +1,7 @@
+# Esse repositório foi arquivado pois será incluido no repositório:
+
+https://github.com/Edwolt/Estudos
+
 # TODO Fazer esse repositório ter alguma coisa (Tem quase nada importante)
 # Ordenação
 Algoritmos que de Ordenação (Tem varios)
